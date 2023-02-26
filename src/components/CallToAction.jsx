@@ -21,13 +21,13 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            Get started today
+            Join Us
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            Do your part to keep the internet honest. Sign up for Waldo now.
+            Interested in partnering with us to keep the internet honest?
           </p>
-          <Button href="/register" color="white" className="mt-10">
-            Join us now
+          <Button href="mailto:miloclark@college.harvard.edu,arjunpuri@college.harvard.edu" color="white" className="mt-10">
+            Contact Us
           </Button>
         </div>
       </Container>
